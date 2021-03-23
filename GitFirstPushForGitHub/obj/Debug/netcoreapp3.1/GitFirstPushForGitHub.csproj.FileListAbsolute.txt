@@ -1,0 +1,13 @@
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\bin\Debug\netcoreapp3.1\GitFirstPushForGitHub.exe
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\bin\Debug\netcoreapp3.1\GitFirstPushForGitHub.deps.json
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\bin\Debug\netcoreapp3.1\GitFirstPushForGitHub.runtimeconfig.json
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\bin\Debug\netcoreapp3.1\GitFirstPushForGitHub.runtimeconfig.dev.json
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\bin\Debug\netcoreapp3.1\GitFirstPushForGitHub.dll
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\bin\Debug\netcoreapp3.1\GitFirstPushForGitHub.pdb
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\obj\Debug\netcoreapp3.1\GitFirstPushForGitHub.csprojAssemblyReference.cache
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\obj\Debug\netcoreapp3.1\GitFirstPushForGitHub.AssemblyInfoInputs.cache
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\obj\Debug\netcoreapp3.1\GitFirstPushForGitHub.AssemblyInfo.cs
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\obj\Debug\netcoreapp3.1\GitFirstPushForGitHub.csproj.CoreCompileInputs.cache
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\obj\Debug\netcoreapp3.1\GitFirstPushForGitHub.dll
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\obj\Debug\netcoreapp3.1\GitFirstPushForGitHub.pdb
+C:\Work\C#\GitFirstPushForGitHub\GitFirstPushForGitHub\obj\Debug\netcoreapp3.1\GitFirstPushForGitHub.genruntimeconfig.cache
