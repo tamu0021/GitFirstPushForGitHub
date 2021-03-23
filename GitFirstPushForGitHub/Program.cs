@@ -37,6 +37,7 @@ namespace GitFirstPushForGitHub
         private string workingDirectory;
         public UpdateForGit(string workingDirectory)
         {
+            /* クラスのインスタンス化時にディレクトリ設定 */
             this.workingDirectory = workingDirectory;
         }
         private int executeCommand(string command, string arguments = "")
@@ -58,6 +59,7 @@ namespace GitFirstPushForGitHub
         {
             if (executeCommand("git", arguments) != 0)
             {
+                /* gitコマンドとして成り立っていなかった場合は、例外を返す。 */
                 throw new Exception("git command error");
             }
         }
